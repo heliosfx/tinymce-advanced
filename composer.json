@@ -1,0 +1,13 @@
+{
+  "name": "aidan/tinymce-advanced",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Aidan",
+      "email": "huynv.ict@gmail.com"
+    }
+  ],
+  "require" : { 
+    "composer/installers": "~1.0"
+  }
+}
